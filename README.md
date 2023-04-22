@@ -1,7 +1,8 @@
 ## Apple-React App
 
 
-
+:wave: Hi, there!
+I'm always looking for ways to improve my skills and try new things - it keeps things interesting!
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
